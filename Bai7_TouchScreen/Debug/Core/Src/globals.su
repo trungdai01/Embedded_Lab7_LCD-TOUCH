@@ -1,0 +1,9 @@
+../Core/Src/globals.c:20:9:isButtonClear	8	static
+../Core/Src/globals.c:27:9:isDirectionInput	8	static
+../Core/Src/globals.c:52:9:restartGame	8	static
+../Core/Src/globals.c:59:6:generateFruit	16	static
+../Core/Src/globals.c:70:6:touchProcess	24	static
+../Core/Src/globals.c:100:6:drawGameBoard	24	static
+../Core/Src/globals.c:108:6:drawControlPad	40	static
+../Core/Src/globals.c:130:6:printGameOver	40	static
+../Core/Src/globals.c:143:6:snake_movement	24	static
